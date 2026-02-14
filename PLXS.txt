@@ -74,6 +74,7 @@
 花样年华7,https://vip2.slslvip12.com/20230216/SeqXgr78/index.m3u8#https://vip2.slslvip12.com/20230216/SeqXgr78/2000kb/hls/index.m3u8
 花样年华8,https://vip2.slslvip12.com/20230216/XaB7crcl/index.m3u8#https://vip2.slslvip12.com/20230216/XaB7crcl/2000kb/hls/index.m3u8
 花样年华9,https://vip2.slslvip12.com/20230216/viFaHi1B/index.m3u8#https://vip2.slslvip12.com/20230216/viFaHi1B/2000kb/hls/index.m3u8
+花样年华9,https://video16.balecao.com/video/20220304/8e39b02dc24e23417023a87c7ceb38ad/index.m3u8
 花样年华10,https://vip2.slslvip12.com/20230216/gbmv36Mr/2000kb/hls/index.m3u8
 花样年华11,https://vip2.slslvip12.com/20230218/mvufG6Qh/index.m3u8#https://vip2.slslvip12.com/20230218/mvufG6Qh/2000kb/hls/index.m3u8
 花样年华12,https://vip2.slslvip12.com/20230218/mP5QPkjq/index.m3u8#https://vip2.slslvip12.com/20230218/mP5QPkjq/2000kb/hls/index.m3u8
