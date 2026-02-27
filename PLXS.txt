@@ -1,3 +1,4 @@
+蓬莱仙山,#genre#
 名模辣妹1,https://jpzy01.com/20230220/LJFmKUC7/1000kb/hls/index.m3u8
 名模辣妹2,https://jpzy01.com/20230220/FhdGoQHa/1000kb/hls/index.m3u8
 名模辣妹3,https://jpzy01.com/20230220/FhdGoQHa/1000kb/hls/index.m3u8
@@ -115,6 +116,8 @@
 东方之花11,https://jpzy01.com/20230622/yv70Z1jj/index.m3u8#https://jpzy01.com/20230622/yv70Z1jj/1000kb/hls/index.m3u8
 东方之花12,https://jpzy01.com/20230622/0HNW34sO/index.m3u8#https://jpzy01.com/20230622/0HNW34sO/1000kb/hls/index.m3u8
 蓬莱仙山之十二金钗,https://jpzy01.com/20230613/vsAGZZhk/1000kb/hls/index.m3u8#https://jpzy01.com/20230613/vsAGZZhk/index.m3u8
+
+XieZhen,#genre#
 洪晓芸写真,https://jpzy01.com/20230425/N6PaeUMX/1000kb/hls/index.m3u8
 田丽的写真集,https://jpzy01.com/20230511/M71GFOYP/1000kb/hls/index.m3u8
 美国,https://askzycdn.com/20221231/NoTskUhc/index.m3u8
