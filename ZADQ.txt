@@ -299,13 +299,13 @@
 2018,https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
 
 Adult,#genre#,
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8#http://live.redtraffic.xyz/livecams.m3u8
 AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
 AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8#http://live.redtraffic.xyz/bigtits.m3u8
 AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
 AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8#http://live.redtraffic.xyz/pov.m3u8
 AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8#http://live.redtraffic.xyz/hardcore.m3u8
 AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
@@ -333,7 +333,6 @@ MyCamTVMILF,http://live.mycamtv.com/milf.m3u8
 MyCamTVSkinnyGirls,http://live.mycamtv.com/skinny.m3u8
 MyCamTVTeenGirls,http://live.mycamtv.com/teen.m3u8
 MyCamTVWhiteGirls,http://live.mycamtv.com/white.m3u8
-
 
 文字频道,#genre#,
 老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
@@ -396,14 +395,14 @@ Teen Porn,https://live.adultiptv.net/teen.m3u8
 Hardcore Porn IPTV,https://live.adultiptv.net/hardcore.m3u8
 Anal,http://live.redtraffic.xyz/anal.m3u8
 Asian,http://live.redtraffic.xyz/asian.m3u8
-BigAss,http://live.redtraffic.xyz/bigass.m3u8
+BigAss,http://live.redtraffic.xyz/bigass.m3u8#http://cdn.adultiptv.net/bigass.m3u8
 BigDick,http://live.redtraffic.xyz/bigdick.m3u8
 Blonde,http://live.redtraffic.xyz/blonde.m3u8
 Blowjob,http://live.redtraffic.xyz/blowjob.m3u8#http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 Brunette,http://live.redtraffic.xyz/brunette.m3u8
 Compilation,http://live.redtraffic.xyz/compilation.m3u8
-Fetish,http://live.redtraffic.xyz/fetish.m3u8
-Gay,http://live.redtraffic.xyz/gay.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8#http://cdn.adultiptv.net/fetish.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8#http://cdn.adultiptv.net/gay.m3u8
 Interracial,http://live.redtraffic.xyz/interracial.m3u8
 Latina,http://live.redtraffic.xyz/latina.m3u8#http://cdn.adultiptv.net/latina.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
@@ -457,7 +456,7 @@ Brazzers HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
 玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
 二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
 松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8#http://live.redtraffic.xyz:80/interracial.m3u8
 欧美5[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
 欧美2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 午夜5,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
@@ -554,8 +553,6 @@ EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 特殊73,https://2.ddyunbo.com/20190730/0sWhD0fA/index.m3u8
 特殊71,https://2.ddyunbo.com/20190730/kI9WtcHF/index.m3u8
 特殊64,https://2.ddyunbo.com/20190801/HsTzj1M0/index.m3u8
-
-
 KIRARI 90 榨幹你三次還不甘休的極上無毛Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
 Curiosa（珍品）2019【法国】Noémie Merlant（1988）,https://cdn8.yzzy-tv-cdn.com/20220709/2966_6d16f899/index.m3u8
 Diario de Una Ninfómana（欲乱日记）2008【西班牙】Belén Fabra（1977）,https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-21/1/9424e9f030bc/cce9c994df97/playlist.m3u8
@@ -917,6 +914,31 @@ CDI Home Video),https://video1.tizam.cc/films/SexFlex.mp4
 一BE10[720*404],https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 一BE11[720*404],https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
 
+🔥东京热,,#genre#,
+🔥东京热,https://nxxplayurl.com/20230913/5hsquZDA//1000kb/hls/index.m3u8
+🐥东京热,https://nxxplayurl.com/20230912/xYMEWgBD/1000kb/hls/index.m3u8#https://vip3.lbbf9.com/20221022/MRYd9Wyy/700kb/hls/index.m3u8
+🌺东京热,https://nxxplayurl.com/20230905/w8Eta4Wr/1000kb/hls/index.m3u8
+🍓东京热,https://nxxplayurl.com/20230804/1fzU15ME/1000kb/hls/index.m3u8
+🌹东京热,https://vip8.3sybf.com/20230727/nQEfuwif/700kb/hls/index.m3u8
+🌱东京热,https://vip8.3sybf.com/20230727/qMSKaajF/700kb/hls/index.m3u8
+🦁东京热,https://vip8.3sybf.com/20230719/RrQNRp80/700kb/hls/index.m3u8
+🐨东京热,https://vip8.3sybf.com/20230725/WV9ZXwAY/700kb/hls/index.m3u8
+🐵东京热,https://vip8.3sybf.com/20230722/gaz007n1/700kb/hls/index.m3u8
+🙈东京热,https://vip3.lbbf9.com/20221106/b7lRI9Zt/700kb/hls/index.m3u8
+🙊东京热,https://vip8.3sybf.com/20230213/Brs0Cs71/700kb/hls/index.m3u8
+🐔东京热,https://vip8.3sybf.com/20230111/Y8Z43nIf/700kb/hls/index.m3u8
+🐧东京热,https://vip8.3sybf.com/20230111/KfvxVfst/700kb/hls/index.m3u8
+🐧🐧东京热,https://vip8.3sybf.com/20221218/I1XNVanp/700kb/hls/index.m3u8
+🐻🐻东京热,https://vip3.lbbf9.com/20221118/ldiF1u0f/700kb/hls/index.m3u8
+🐤🐤东京热,https://vip3.lbbf9.com/20221022/SbvSVUhx/700kb/hls/index.m3u8
+🐣🦆东京热,https://vip3.lbbf9.com/20221021/0XQ36hj0/700kb/hls/index.m3u8
+🦉🦉东京热,https://vip3.lbbf9.com/20221021/rNIaKvps/700kb/hls/index.m3u8
+🦉东京热,https://vip3.lbbf9.com/20221021/PGME2jYA//700kb/hls/index.m3u8
+🐛东京热,https://vip7.3sybf.com/20220714/4BfS9cbc/500kb/hls/index.m3u8
+🦕东京热,https://vip8.3sybf.com/20231201/1xgebc1O/600kb/hls/index.m3u8
+🐞东京热,https://vip3.lbbf9.com/20231119/cBVd2ovF/1000kb/hls/index.m3u8
+🐎东京热,https://vip8.3sybf.com/20231110/VLFq2iac/600kb/hls/index.m3u8
+
 MY BLOW JOBER,#genre#,
 01MY BLOW JOBER,https://s1.xiahi.com/dm/MY.BLOW.JOBER.ACT-01.mp4
 02MY BLOW JOBER,https://s1.xiahi.com/dm/MY.BLOW.JOBER.ACT-02.mp4
@@ -1164,7 +1186,6 @@ DLRB109,https://askzybf.com/20221108/RyeY6mNp/1000kb/hls/index.m3u8
 DLRB110,https://askzybf.com/20221108/zdXTYhJP/1000kb/hls/index.m3u8
 DLRB111,https://askzybf.com/20221107/rXPdemyl/1000kb/hls/index.m3u8
 DLRB112,https://askzybf.com/20221105/ICtFwEMG/1000kb/hls/index.m3u8
-
 
 cjk,#genre#,
 cjk01,https://m3u8.40cdn.com/movie-hls/161130/cjk1/index.m3u8
@@ -2195,15 +2216,15 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🐒8传媒13,https://je40u.cdnedge.live/file/avple-images/hls/630bf762fa4dc50519c9fa6f/playlist.m3u8
 🐒8传媒14,https://u89ey.cdnedge.live/file/avple-images/hls/630bf6aefa4dc50519c9fa6d/playlist.m3u8
 🐒8传媒15,https://8bb88.cdnedge.live/file/avple-images/hls/630bf726fa4dc50519c9fa6e/playlist.m3u8
- ?传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/630abc1a07a4b05da7f900ff/playlist.m3u8#https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
- ?传媒02,https://je40u.cdnedge.live/file/avple-images/hls/630ab89407a4b05da7f900fe/playlist.m3u8#https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
+?传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/630abc1a07a4b05da7f900ff/playlist.m3u8#https://zo392.cdnedge.live/file/avple-images/hls/62e3e05368ab9b4779793825/playlist.m3u8
+?传媒02,https://je40u.cdnedge.live/file/avple-images/hls/630ab89407a4b05da7f900fe/playlist.m3u8#https://d862cp.cdnedge.live/file/avple-images/hls/62e3c73764d6ad45f65f31b0/playlist.m3u8
  ?传媒04,https://1xp60.cdnedge.live/file/avple-images/hls/630a91f407a4b05da7f900fc/playlist.m3u8
- ?传媒05,https://q2cyl7.cdnedge.live/file/avple-images/hls/630a917f07a4b05da7f900fb/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
- ?传媒06,https://je40u.cdnedge.live/file/avple-images/hls/630a90ca07a4b05da7f900f9/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
- ?传媒08,https://zo392.cdnedge.live/file/avple-images/hls/630a901507a4b05da7f900f7/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
- ?传媒09,https://je40u.cdnedge.live/file/avple-images/hls/630a8e7207a4b05da7f900f2/playlist.m3u8#https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
- ?传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/630a8fd807a4b05da7f900f6/playlist.m3u8#https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
- ?传媒11,https://u89ey.cdnedge.live/file/avple-images/hls/630a8f6107a4b05da7f900f5/playlist.m3u8#https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
+?传媒05,https://q2cyl7.cdnedge.live/file/avple-images/hls/630a917f07a4b05da7f900fb/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e2866503f56d1e4c965641/playlist.m3u8
+?传媒06,https://je40u.cdnedge.live/file/avple-images/hls/630a90ca07a4b05da7f900f9/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e283d103f56d1e4c96563e/playlist.m3u8
+?传媒08,https://zo392.cdnedge.live/file/avple-images/hls/630a901507a4b05da7f900f7/playlist.m3u8#https://e2fa6.cdnedge.live/file/avple-images/hls/62e281f103f56d1e4c96563b/playlist.m3u8
+?传媒09,https://je40u.cdnedge.live/file/avple-images/hls/630a8e7207a4b05da7f900f2/playlist.m3u8#https://1xp60.cdnedge.live/file/avple-images/hls/62e1a776ae8e25784a42cffd/playlist.m3u8
+?传媒10,https://d862cp.cdnedge.live/file/avple-images/hls/630a8fd807a4b05da7f900f6/playlist.m3u8#https://8bb88.cdnedge.live/file/avple-images/hls/62e17640ae8e25784a42cffc/playlist.m3u8
+?传媒11,https://u89ey.cdnedge.live/file/avple-images/hls/630a8f6107a4b05da7f900f5/playlist.m3u8#https://8bb88.cdnedge.live/file/avple-images/hls/62e16ce0ae8e25784a42cffb/playlist.m3u8
  ?传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/630a8f2507a4b05da7f900f4/playlist.m3u8
  ?传媒13,https://10j99.cdnedge.live/file/avple-images/hls/630a8eae07a4b05da7f900f3/playlist.m3u8
  ?传媒14,https://1xp60.cdnedge.live/file/avple-images/hls/630a8dbe07a4b05da7f900f0/playlist.m3u8
@@ -2586,6 +2607,27 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓6传媒69,https://10j99.cdnedge.live/file/avple-images/hls/629a03e862a22f14d4ef251c/playlist.m3u8
 🍓6传媒70,https://d862cp.cdnedge.live/file/avple-images/hls/629a01ce62a22f14d4ef251b/playlist.m3u8
 🍓6传媒71,https://zo392.cdnedge.live/file/avple-images/hls/629a011862a22f14d4ef251a/playlist.m3u8
+🐸12传媒31,https://8bb881.cdnedge.live/file/avple-asserts/hls/6399699c2c279c7a7cd4bf3e/playlist.m3u8
+🍿11传媒48,https://je40u1.cdnedge.live/file/avple-asserts/hls/637debc2f491896ea8b56083/playlist.m3u8
+🍱11传媒08,https://zo3921.cdnedge.live/file/avple-asserts/hls/6377619e662a2810e815a967/playlist.m3u8
+🍾9传媒26,https://zo392.cdnedge.live/file/avple-images/hls/632487b675590f2b84022b8a/playlist.m3u8
+🍓6传媒158,https://8bb88.cdnedge.live/file/avple-images/hls/6288c9e7b982a351108bf731/playlist.m3u8
+🍓5传媒16,https://8bb88.cdnedge.live/file/avple-images/hls/628cd91fde01360ccb2f8e9f/playlist.m3u8
+🍓5传媒37,https://e2fa6.cdnedge.live/file/avple-images/hls/628aafc4a1c1cd0b44683ef4/playlist.m3u8
+🍓5传媒75,https://8bb88.cdnedge.live/file/avple-images/hls/6284e288c71b08247ee18e2f/playlist.m3u8
+🍓5传媒100,https://8bb88.cdnedge.live/file/avple-images/hls/627ef1e7c60346652e396c86/playlist.m3u8
+🍓5传媒126,https://1xp60.cdnedge.live/file/avple-images/hls/627a582c1a1d9a347dd9853b/playlist.m3u8
+🍓5传媒134,https://1xp60.cdnedge.live/file/avple-images/hls/62792cb6e836607ba1f77b1d/playlist.m3u8
+🍓5传媒150,https://e2fa6.cdnedge.live/file/avple-images/hls/6275225cefd05a44b0f87e97/playlist.m3u8
+🍓5传媒151,https://8bb88.cdnedge.live/file/avple-images/hls/6274d26c84b95e04c28dde2e/playlist.m3u8
+🍓4传媒180,https://e2fa6.cdnedge.live/file/avple-images/hls/62323a128cc9324f4943612e/playlist.m3u8
+🍓3传媒131,https://e2fa6.cdnedge.live/file/avple-images/hls/620b8836d0ea7c7d841b2f34/playlist.m3u8
+🍓2传媒41,https://1xp60.cdnedge.live/file/avple-images/hls/61fb8ada11eff304d6e1379b/playlist.m3u8
+🍓2传媒97,https://e2fa6.cdnedge.live/file/avple-images/hls/61ea6a66dabdc15a14562f7e/playlist.m3u8
+🍓1传媒26,https://8bb88.cdnedge.live/file/avple-images/hls/61db6bcd5fb6a835028c9ae8/playlist.m3u8
+🍓1传媒59,https://8bb88.cdnedge.live/file/avple-images/hls/61d0c0a18ec5397ce0e2cde0/playlist.m3u8
+🍓1传媒69,https://8bb88.cdnedge.live/file/avple-images/hls/61ce1315b418404e15c81308/playlist.m3u8
+🍓12传媒51,https://e2fa6.cdnedge.live/file/avple-images/hls/61a940fd0791fe25b65cea19/playlist.m3u8
 少年03,https://1xp60.cdnedge.live/file/avple-images/hls/61628f7ec778383b6b882d05/playlist.m3u8
 
 Swag,#genre#,
@@ -2614,8 +2656,11 @@ Swag,#genre#,
 🍺Swag28,https://zo392.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbe/playlist.m3u8
 🍺Swag29,https://e2fa6.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbb/playlist.m3u8
 🍺Swag30,https://u89ey.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cbd/playlist.m3u8
+🍺Swag31,https://d862cp.cdnedge.live/file/avple-images/hls/62d083d075425b99bb694cba/playlist.m3u8
+🍺Swag32,https://u89ey.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb8/playlist.m3u8
 🍺Swag33,https://8bb88.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb6/playlist.m3u8
 🍺Swag34,https://u89ey.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb3/playlist.m3u8
+🍺Swag35,https://je40u.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb5/playlist.m3u8
 🍺Swag36,https://zo392.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb1/playlist.m3u8
 🍺Swag37,https://1xp60.cdnedge.live/file/avple-images/hls/62cf325075425b99bb694cb4/playlist.m3u8
 🍺Swag38,https://10j99.cdnedge.live/file/avple-images/hls/62cde0d075425b99bb694cae/playlist.m3u8
@@ -2723,3 +2768,99 @@ Princessdolly,#genre#,
 巨象娱乐05,https://zo392.cdnedge.live/file/avple-images/hls/62c5a63536c38433078a6950/playlist.m3u8
 LAX-0063POV淘气的初体验-MiaKay,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
 MKY-SL-004夏夜靡遗冰淇淋的助攻夏晴子,https://d862cp.cdnedge.live/file/avple-images/hls/62c5a49136c38433078a694d/playlist.m3u8
+
+
+杂七杂八,#genre#,
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+Young coach seduced and fucked busty mature woman India Summermp4,https://vip1.slbfsl.com/20221016/mGB4OsHe/index.m3u8
+Tattooed  MILF Synthia Fixx gets assfucked from behindmp4,https://vip1.slbfsl.com/20221016/D5eWJFFH/index.m3u8
+Kendra Lust - Married swinger couple seduced sweet girl Holly Michaels,https://vip1.slbfsl.com/20221025/tMO6PZ2h/index.m3u8
+Black policewoman Misty Stone takes a big cock in the interrogation cell,https://vip1.slbfsl.com/20221026/LvxQ9MSM/index.m3u8
+Inexperienced thief Carmen Caliente was caught red-handed and brutally punished,https://vip1.slbfsl.com/20221026/lNQFKppu/index.m3u8
+Petite schoolgirl Marsha May takes huge cock during the exam,https://vip1.slbfsl.com/20221026/FnxlfA9v/index.m3u8
+Married beauty with big boobs Satin Bloom gets assfucked in front of her husband,https://vip1.slbfsl.com/20221026/TwszBvPr/index.m3u8
+Athletic fitness trainer Victoria June gets hard fucked during workout,https://vip1.slbfsl.com/20221026/0syfhs47/index.m3u8
+Young blonde Naomi Woods and her mature mentor Karla Kush on black penis,https://vip1.slbfsl.com/20221027/vGoKS7Y4/index.m3u8
+BrazzersExxtra - Aiden Ashley - From The Streets To The Sheets,https://vip1.slbfsl.com/20221101/BMoHXPdy/index.m3u8
+[美国]辣妹都市(1979),https://vip2.slbfsl.com/20230330/g20JNvRr/index.m3u8
+[美国]门环公爵2(1992),https://vip2.slbfsl.com/20230330/BoK9KIV6/index.m3u8
+食奴尻,https://vip2.slbfsl.com/20230227/XuBpN6Pt/index.m3u8
+所有作品完成8小時,https://vip2.slbfsl.com/20230228/dVpWjPBq/index.m3u8
+学生デリ呼んだらボーイッシュだった件,https://vip2.slbfsl.com/20230302/bvBMDo6p/index.m3u8
+中に出すまで逃さない！1,https://vip2.slbfsl.com/20230304/w3U5PLjp/index.m3u8
+-連哄帶騙終於初次登場！,https://vip2.slbfsl.com/20230310/9l7sbVP4/index.m3u8
+-目隠し拘束されながら生ハメ中出しをも許容してしまう体たらく！,https://vip2.slbfsl.com/20230311/KtaFXY7a/index.m3u8
+エアロビクサーのいやらしい誘惑ティア,https://vip2.slbfsl.com/20230324/Vt3UwscY/index.m3u8
+最高のオンナと見つめ合って何度も求め合った一泊二日温泉旅行1,https://vip2.slbfsl.com/20230304/O0wVziZX/index.m3u8
+お釣り渡す時に手をぎゅっと握ってくれるコンビニ店員の子が,https://vip2.slbfsl.com/20230325/AijPBr8B/index.m3u8
+エロ過ぎる美尻に極上パイパンと気持ちよすぎてなんでもしちゃうエロ盛り沢山SEX,https://vip2.slbfsl.com/20230325/W6G432ez/index.m3u8
+これは永久保存版！,https://vip2.slbfsl.com/20230327/B4CoUkSB/index.m3u8
+愧疚的哥哥酒后强奸了妹妹！,https://vip1.slbfsl.com/20230108/elyKEKti/index.m3u8
+美丽善良的家政妇被迫沦为富家少爷的玩物！,https://vip1.slbfsl.com/20230109/ufnXOXcE/index.m3u8
+XKG024  讓我欲罷不能的小姨-椿芽,https://vip2.slbfsl.com/20230125/nOSJUwW1/index.m3u8
+探花系列-约个高档外围打一炮,https://vip2.slbfsl.com/20230407/JFICSrAn/index.m3u8
+JVID《情趣红娘自慰成癮》,https://vip1.slbfsl.com/20221214/pAVqCU4s/index.m3u8
+JIVD《安娜貝干》用純愛愛來打破詛咒part-2,https://vip1.slbfsl.com/20221214/3639yVto/index.m3u8
+开操黑丝极品白虎鲍鱼！bb紧嫩又好操！,https://vip1.slbfsl.com/20230106/VweJ1E8U/index.m3u8
+【奇葩恋情】妹妹分手了姐姐替补上了妹夫的床,https://vip1.slbfsl.com/20230111/JPilfmkl/index.m3u8
+白领OL下班后想冷靜一下,https://vip2.slbfsl.com/20230126/w4rBjnbs/index.m3u8
+秘書美麗家畜俱樂部鋼棒目標情報落到了地上,https://vip2.slbfsl.com/20230421/b7VDouA4/index.m3u8
+JVID【孟若羽】《极乐按摩湿》屁眼不可以掰开！,https://vip1.slbfsl.com/20221214/WsjyDepT/index.m3u8
+紧臀裙妹子骑在身上调情 ~害我忍不住的帮她扣逼 再抱起来用力操！,https://vip1.slbfsl.com/20230103/jaRPxyvI/index.m3u8
+来自房东偷窥的爱《桃依依》,https://vip1.slbfsl.com/20230108/PVX7NQ3g/index.m3u8
+旅馆偷拍身材很棒的大奶炮友,https://vip1.slbfsl.com/20230109/nTaSwVrl/index.m3u8
+TMY0026周末宅家插妹妹,https://vip2.slbfsl.com/20230116/PQbDrctt/index.m3u8
+JD074  美麗的繼母,https://vip2.slbfsl.com/20230119/s0ZdlzPY/index.m3u8
+Momo的异形玩具1 初次蜜穴扩张(下),https://vip2.slbfsl.com/20230121/EqA9ns27/index.m3u8
+爱丝袜的Vivian姐_最新小护士情趣打闹，骑乘叫床声妖艳又有一丝清纯！,https://vip2.slbfsl.com/20230125/2RMUrxul/index.m3u8
+极品车模身材超好，逼还很紧真爽,https://vip2.slbfsl.com/20230202/0grsyEA2/index.m3u8
+Carib 040410-339 鈴木ありさ THE 未公開,https://vip1.slbfsl.com/20220818/KWTP14NJ/index.m3u8
+FC2PPV-1233100 （モザイク有り）,https://vip1.slbfsl.com/20220818/JIeBdXz6/index.m3u8#https://aosikazy12.com/20220929/91cycSZd/index.m3u8
+FC2PPV-1230185,https://vip1.slbfsl.com/20220818/cfLQAd1X/index.m3u8#https://aosikazy12.com/20220929/jcDj53ii/index.m3u8
+FC2PPV-1231059,https://aosikazy12.com/20220929/43uZvTqd/index.m3u8
+FC2PPV-1230596,https://vip1.slbfsl.com/20220818/3GWCglie/index.m3u8#https://aosikazy12.com/20220929/btvSlCZQ/index.m3u8
+FC2PPV-1231680,https://vip1.slbfsl.com/20220818/4qBKIKl7/index.m3u8#https://aosikazy12.com/20220929/hLCWKAzS/index.m3u8
+FC2PPV-1243928,https://vip1.slbfsl.com/20220818/LiZyy6lS/index.m3u8#https://aosikazy12.com/20220929/tAFXpH7T/index.m3u8
+FC2PPV-1243463,https://vip1.slbfsl.com/20220818/P8Ff6BuK/index.m3u8#https://aosikazy12.com/20220929/jIcE7IJX/index.m3u8
+FC2PPV-1209497,https://aosikazy12.com/20220929/fZRAfak2/index.m3u8
+FC2PPV-1244888,https://vip1.slbfsl.com/20220818/6v5viS8G/index.m3u8
+FC2PPV-1244023-A,https://vip1.slbfsl.com/20220818/DOyyD9vC/index.m3u8#https://aosikazy12.com/20220929/QfdZvXZs/index.m3u8
+FC2PPV-1227537,https://aosikazy12.com/20220929/99uaLZEd/index.m3u8
+Carib 041410-347 沢井真帆 THE 未公開,https://vip1.slbfsl.com/20220818/HLkXJd7o/index.m3u8#https://aosikazy12.com/20220929/jt2OURx0/index.m3u8
+FC2PPV-1245021,https://vip1.slbfsl.com/20220818/wvmfRxZw/index.m3u8#https://aosikazy12.com/20220929/poMR0VKC/index.m3u8
+FC2PPV-1233392,https://vip1.slbfsl.com/20220818/4sh8OxxN/index.m3u8#https://aosikazy12.com/20220929/rJT4uh5c/index.m3u8
+FC2PPV-1226815,https://vip1.slbfsl.com/20220818/0XTQOTRF/index.m3u8
+HAMESAMURAI0210 ２本入りサービスパック?期間限定配信ですVol.10,https://vip1.slbfsl.com/20220818/MSCkJtkz/index.m3u8
+FC2PPV-1264353,https://vip1.slbfsl.com/20220818/C84H3d0W/index.m3u8#https://aosikazy12.com/20221002/wAKRUh2r/index.m3u8
+Carib 072410-435 神崎るな カリビアンキューティー Vol.14,https://vip1.slbfsl.com/20220818/WZxDkttg/index.m3u8#https://aosikazy12.com/20221002/lEhhYPMp/index.m3u8
+Carib 072610-436 高瀬沙耶香 熟,https://vip1.slbfsl.com/20220818/Vt8HXiZQ/index.m3u8#https://aosikazy12.com/20221002/yDDTRArH/index.m3u8
+FC2PPV-1265930 【初撮り】ムッチリGカップ 即イキツルマンもなちゃんと生ハメSEX,https://vip1.slbfsl.com/20220818/Como3C0x/index.m3u8#https://aosikazy12.com/20221002/9JX0ZUul/index.m3u8
+FC2PPV-1260163 ☆初撮り☆完全顔出し☆スベスベお肌に最高の抱き心地?M気質のご奉仕大好きもかちゃんとラブラブエッチでたっぷりおま○こ汚してあげました！【ZIP付】,https://vip1.slbfsl.com/20220818/EwMuaeOp/index.m3u8
+FC2PPV-1272414 結構有名なところでやってしまったためか,https://aosikazy12.com/20221002/fPH12wYV/index.m3u8
+FC2PPV-1273728,https://vip1.slbfsl.com/20220818/uKVgYOkP/index.m3u8#https://aosikazy12.com/20221002/Iicmd4ok/index.m3u8
+FC2PPV-1273699 貸出し,https://vip1.slbfsl.com/20220818/1PfbFWpI/index.m3u8
+FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢して本気汁ダク生ハメ２連発!!,https://vip1.slbfsl.com/20220818/oMYV4pWn/index.m3u8
+ねっとりベロチュー、みっちりセックス～グチョグチョにしてほしい,https://vip2.slbfsl.com/20230331/2cHwPFn3/index.m3u8
+はいてる下着を買い取らせて下さい！,https://vip2.slbfsl.com/20230331/bNczsrvO/index.m3u8
+パシオン?アモローサ ～愛する情熱 9～,https://vip2.slbfsl.com/20230331/E4rKi9vD/index.m3u8
+ハロウィンコスでイカせてア?ゲ?ル！,https://vip2.slbfsl.com/20230331/MxKvyGTt/index.m3u8
+パシオン?アモローサ ?愛する情熱 7?,https://vip2.slbfsl.com/20230331/ggHwX8YL/index.m3u8
+パイパン娘が面接に来たから体験撮影で即ハメ生中出し,https://vip2.slbfsl.com/20230331/od4AUxII/index.m3u8
+AdultIPTV.net Teen,http://live.redtraffic.xyz/teen.m3u8
+MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+æ¬§ç¾Ž1å°,http://live.adultiptv.net/asian.m3u8
+æ¬§ç¾Ž2å°,http://live.adultiptv.net/blonde.m3u8
+æ¬§ç¾Ž3å°,http://live.adultiptv.net/brunette.m3u8
+æ¬§ç¾Ž4å°,http://live.adultiptv.net/compilation.m3u8
+æ¬§ç¾Ž5å°,http://live.adultiptv.net/anal.m3u8
+æ¬§ç¾Ž8å°,http://live.adultiptv.net/lesbian.m3u8
+æ¬§ç¾Ž9å°,http://live.adultiptv.net/russian.m3u8
+æ¬§ç¾Ž22å°,http://live.adultiptv.net/bigdick.m3u8
+æ¬§ç¾Ž23å°,http://live.adultiptv.net/milf.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
